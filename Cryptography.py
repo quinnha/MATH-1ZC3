@@ -3,6 +3,7 @@
 
 # In[148]:
 
+#Make sure to have numpy/pandas installed in cmd, pip install numpy
 
 #Encode
 import numpy as np
